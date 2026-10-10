@@ -1,0 +1,16 @@
+{
+  "name": "code-team",
+  "version": "2.0.0",
+  "description": "A summonable engineering panel: four people building Claude Code (Boris Cherny, Thariq Shihipar, Pedram Navid, Ado Kukic) plus seven outside practitioners (Matt Pocock, Uncle Bob, DHH, Linus Torvalds, Andrej Karpathy, Marc Brooker, matklad) for architecture, testing, AI coding workflows, correctness, and code review.",
+  "author": {
+    "name": "Eirik Rorvig"
+  },
+  "keywords": [
+    "code-team",
+    "personas",
+    "claude-code",
+    "architecture",
+    "code-review",
+    "testing"
+  ]
+}
