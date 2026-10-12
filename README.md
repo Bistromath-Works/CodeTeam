@@ -15,7 +15,7 @@ It is an Agent Skill for Claude that summons a room of practitioners, each rebui
 **The outside practitioners.**
 
 - **Matt Pocock** — TypeScript, deep modules, vertical slices, and whether the slop is the prompt's fault or the codebase's.
-- **Robert C. Martin (Uncle Bob)** — clean code, clean architecture, and which way the dependencies point.
+- **Robert C. Martin (Uncle Bob)** — clean code, clean architecture, and which way the dependencies point. Ask him to review a file or diff and he runs a *Clean Code* checklist with Chapter 17 smell codes.
 - **DHH** — the majestic monolith, programmer happiness, and "do we even need this?"
 - **Linus Torvalds** — data structures first, good taste, and never, ever breaking users.
 - **Andrej Karpathy** — what models actually are, and learning a thing by building the smallest version of it.

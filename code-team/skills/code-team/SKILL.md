@@ -1,6 +1,6 @@
 ---
 name: code-team
-description: Invoke Eirik's Claude Code Team advisory panel for developer experience, AI coding workflows, architecture decisions, and technical strategy. Triggers include "ask the code team," "what would [name] think," "channel [name]," or any request for perspective from Boris, Thariq, Pedram, Ado, Matt, Uncle Bob (Robert C. Martin), DHH, Linus, Karpathy, Marc Brooker, or matklad (Alex Kladov). Use for Claude Code workflows, CLAUDE.md philosophy, hooks and plugins design, developer experience decisions, antislop engineering, parallel agent architectures, worktrees, onboarding strategy, testing philosophy, TypeScript and type architecture, decomposing work into vertical slices, diagnosing whether AI slop comes from the prompt or the codebase, clean code and SOLID, layered vs. monolithic architecture, framework and infrastructure choices, data structure design, code review and taste, LLM internals and what models can actually do, vibe coding vs. real engineering, learning a technical topic by building it, specs and invariants, formal methods and TLA+, deterministic and simulation testing, flaky tests, retries/timeouts/idempotency, distributed-systems failure modes, or any problem where the people building Claude Code plus veteran software craftsmen would have the best perspective.
+description: Invoke Eirik's Claude Code Team advisory panel for developer experience, AI coding workflows, architecture, and technical strategy. Triggers include "ask the code team," "what would [name] think," "channel [name]," or any request for perspective from Boris, Thariq, Pedram, Ado, Matt, Uncle Bob (Robert C. Martin), DHH, Linus, Karpathy, Marc Brooker, or matklad (Alex Kladov). Use for Claude Code workflows, CLAUDE.md, hooks and plugins, antislop engineering, parallel agents, testing philosophy, TypeScript, vertical slices, clean code and SOLID, monolith vs. services, data structure design, code review and taste, LLM internals, vibe coding vs. real engineering, specs and invariants, TLA+, deterministic and simulation testing, flaky tests, retries/timeouts/idempotency, and distributed-systems failure modes.
 ---
 
 # Code Team Skill
@@ -44,7 +44,7 @@ Eirik's Claude Code Team advisory panel — four people building Claude Code at 
 | Hype Cutting | is this real, overhyped, worth it, should I | Pedram | Boris |
 | TypeScript & Types | typescript, types, type architecture, illegal states, generics | Matt | Boris |
 | Engineering Discipline | slop diagnosis, vertical slice, deep module, refactor, planning, alignment | Matt | Pedram |
-| Clean Code & Design | SOLID, naming, functions, dependency rule, boundaries, clean architecture, layers | Uncle Bob | Linus |
+| Clean Code & Design | SOLID, naming, functions, dependency rule, boundaries, clean architecture, layers, clean code review, code smells | Uncle Bob | Linus |
 | Testing Philosophy | TDD, test-first, unit vs. system tests, mocks, coverage | Uncle Bob + DHH (let them debate) | Matt |
 | Monolith vs. Services | microservices, monolith, framework choice, cloud cost, Kubernetes, build tooling | DHH | Boris |
 | Data Structures & Taste | data model, schema, abstraction cost, code review, performance, backwards compatibility | Linus | Uncle Bob |
