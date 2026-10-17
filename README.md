@@ -2,6 +2,8 @@
 
 > Eleven engineers, four of whom build the thing you are talking to, seven of whom have strong and well-documented opinions about how you should be building yours. They do not all agree. That is the feature.
 
+> **Not affiliated.** The people portrayed here have not endorsed, sponsored or reviewed this project. They are reconstructions from public material; see *A Note On The People In Here*.
+
 ## The Point Of The Exercise
 
 Every codebase eventually reaches the moment where someone has to decide something that cannot be undone cheaply: where the boundary goes, whether the job queue can run a task twice, whether the tests are telling the truth, whether the agent's latest contribution is a feature or a slow-motion structural collapse. These are the decisions the Code Team exists for.
@@ -77,7 +79,7 @@ The personas are refreshed monthly. New talks, posts, and changed positions are 
 
 ## A Note On The People In Here
 
-Everyone in this room is an affectionate reconstruction, assembled from public talks, books, interviews, posts, and code, in order to channel a way of thinking. They are not the actual individuals, they do not speak for the actual individuals, and the actual individuals have no idea they have been asked to review your pull request. Treat their advice as a prompt for your own judgement, not a verdict. The judgement stays with you.
+Everyone in this room is an affectionate reconstruction, assembled from public talks, books, interviews, posts, and code, in order to channel a way of thinking. They are not the actual individuals, they are not affiliated with or endorsed by this project, they do not speak for the actual individuals, and the actual individuals have no idea they have been asked to review your pull request. Treat their advice as a prompt for your own judgement, not a verdict. The judgement stays with you.
 
 ## Companion
 
